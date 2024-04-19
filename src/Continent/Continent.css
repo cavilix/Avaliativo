@@ -1,0 +1,49 @@
+.p{
+    font-size: 10px;
+    margin: 0;
+    color: gray;
+
+}
+h1{
+    color: white;
+}
+.p2{
+    color: white;
+
+}
+
+.login{
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    border-radius: 5px;
+    width: 400px;
+    height: 340px;
+    align-items: center;
+}
+input{
+    margin: 10px;
+    height: 30px;
+    width: 350px;
+    border-radius: 5px;
+    border-color: rgba(128, 128, 128, 0.448);
+}
+input:hover{
+    color: black;
+}
+.logar{
+    height: 40px;
+    width: 370px;
+    background-color: hsl(154, 59%, 51%);
+    color: white;
+    border-color:  hsl(154, 59%, 51%);;
+    border-radius: 5px;
+}
+.propaganda{
+    border-radius: 7px;
+    width: 420px;
+    height: 40px;
+    background-color:hsl(248, 32%, 49%);
+    color: white;
+    border-color: hsl(248, 32%, 49%);;
+}
